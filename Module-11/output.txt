@@ -1,0 +1,5 @@
+distance of 1 : 0
+distance of 2 : 2
+distance of 3 : 3
+distance of 4 : 7
+distance of 5 : 5

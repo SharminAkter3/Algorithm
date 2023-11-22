@@ -1,0 +1,22 @@
+Visiting Node: 1
+Visiting Node: 2
+Visiting Node: 3
+Visiting Node: 8
+Visiting Node: 7
+Visiting Node: 4
+Visiting Node: 5
+Visiting Node: 6
+Visiting Node: 9
+Visiting Array
+depth of Node 0:0
+depth of Node 1:0
+depth of Node 2:1
+depth of Node 3:2
+depth of Node 4:5
+depth of Node 5:6
+depth of Node 6:7
+depth of Node 7:4
+depth of Node 8:3
+depth of Node 9:4
+depth of Node 10:0
+depth of Node 11:0
